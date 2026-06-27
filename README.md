@@ -165,8 +165,6 @@ The script creates reports inside `rename_reports/`:
 
 ## Use cases
 
-- Waste sorting education images
-- Recycling icon datasets
 - Classroom flashcards
 - Product image localization
 - Dataset cleaning
@@ -412,9 +410,8 @@ python rename_images.py --excel mapping.xlsx --sheet Sheet1 --image-dir image
 
 ## 應用案例
 
-- 垃圾分類教育圖片
 
-- 回收圖標資料集
+- 圖標資料集
 
 - 課堂閃卡
 
